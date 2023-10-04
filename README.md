@@ -66,7 +66,7 @@ DISPLAY THE RESULT FOR EACH EMPLOYEE:
 
 ![image](https://github.com/21005984/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/94748389/c732c4e8-6251-4c31-b3c1-1cad4f8d9172)
 
-#RESULT:
+# RESULT:
 Creating a cursor using SQL/PL has been executed successfully..
 
 
