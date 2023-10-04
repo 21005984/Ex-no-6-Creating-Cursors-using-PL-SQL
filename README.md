@@ -49,13 +49,21 @@ END;
 ~~~
 # OUTPUT
 CREATE A TABLE FOR EMPLOYEE:
-![3](https://github.com/21005984/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/94748389/e84a0cba-25da-43f7-a7ef-184905001dcf)
+
+![3](https://github.com/21005984/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/94748389/e84a0cba-25da-43f7-a7ef-184905001dcf) 
+
 ISERTING THE VALUES:
+
 ![1](https://github.com/21005984/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/94748389/d4a8a43e-21ae-4f9d-9a18-42e77144119a)
+
 ![2](https://github.com/21005984/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/94748389/614eab60-e787-4ff2-8445-26d3448c57ad)
+
 DECLARE CURSOR:
+
 ![image](https://github.com/21005984/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/94748389/4e559700-ed56-4d26-a47f-bd34c652b07c)
+
 DISPLAY THE RESULT FOR EACH EMPLOYEE:
+
 ![image](https://github.com/21005984/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/94748389/c732c4e8-6251-4c31-b3c1-1cad4f8d9172)
 
 #RESULT:
